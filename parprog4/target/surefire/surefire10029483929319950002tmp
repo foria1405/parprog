@@ -1,0 +1,25 @@
+#surefire
+#Mon Feb 15 01:01:07 MSK 2021
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\\u041B\u0443\u0438\u0437\u0430\\Desktop\\5 sem\\\u0414\u0430\u0448\u0435\\parprog\\lab4_2\\src\\test\\java
+includes1=**/*Test.java
+includes2=**/*TestCase.java
+runOrder=filesystem
+runStatisticsFile=C\:\\Users\\\u041B\u0443\u0438\u0437\u0430\\Desktop\\5 sem\\\u0414\u0430\u0448\u0435\\parprog\\lab4_2\\.surefire-2C63DF2DEA8083CF34197D1453B0A074DD9074BA
+includes0=**/Test*.java
+reportsDirectory=C\:\\Users\\\u041B\u0443\u0438\u0437\u0430\\Desktop\\5 sem\\\u0414\u0430\u0448\u0435\\parprog\\lab4_2\\target\\surefire-reports
+tc.0=ru.spbstu.telematics.java.AppTest
+surefireClassPathUrl.0=C\:\\Users\\\u041B\u0443\u0438\u0437\u0430\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.12.4\\surefire-junit4-2.12.4.jar
+classPathUrl.0=C\:\\Users\\\u041B\u0443\u0438\u0437\u0430\\Desktop\\5 sem\\\u0414\u0430\u0448\u0435\\parprog\\lab4_2\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+classPathUrl.1=C\:\\Users\\\u041B\u0443\u0438\u0437\u0430\\Desktop\\5 sem\\\u0414\u0430\u0448\u0435\\parprog\\lab4_2\\target\\classes
+failIfNoTests=false
+classPathUrl.2=C\:\\Users\\\u041B\u0443\u0438\u0437\u0430\\.m2\\repository\\junit\\junit\\4.12\\junit-4.12.jar
+classPathUrl.3=C\:\\Users\\\u041B\u0443\u0438\u0437\u0430\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar
+testClassesDirectory=C\:\\Users\\\u041B\u0443\u0438\u0437\u0430\\Desktop\\5 sem\\\u0414\u0430\u0448\u0435\\parprog\\lab4_2\\target\\test-classes
+isTrimStackTrace=true
+surefireClassPathUrl.1=C\:\\Users\\\u041B\u0443\u0438\u0437\u0430\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+excludes0=**/*$*
+enableAssertions=true
+childDelegation=false
+useManifestOnlyJar=true
+useSystemClassLoader=true
